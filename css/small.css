@@ -47,13 +47,14 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  width: 50%;
+  width: 70%;
 }
 
 .panell img {
   height: 30%;
   width: 30%;
   float: right;
+  display: none;
 }
 
 .ss {
