@@ -40,11 +40,12 @@ body{
 .panell{
     @include contain();
     display: flex;
-    width: 50%;
+    width: 70%;
     img{
         height: 30%;
         width: 30%;
         float: right;
+        display: none;
     }
 
 }
